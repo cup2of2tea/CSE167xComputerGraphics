@@ -28,5 +28,9 @@
 *.out
 *.app
 
+*.opendb
+*.db
+
 Debug/*
-hw0-windows.VC
+hw0-windows.VC.VC.opendb
+.vs/*
