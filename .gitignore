@@ -32,5 +32,6 @@
 *.db
 
 Debug/*
+**/Debug/*
 hw0-windows.VC.VC.opendb
 .vs/*
